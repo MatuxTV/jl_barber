@@ -1,0 +1,183 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact Us",
+    "book": "Book Appointment"
+  },
+  "hero": {
+    "title": "Men's, Women's & Children's Hair Salon",
+    "subtitle": "Hair care for everyone – right in Petržalka. We offer precise men's and women's cuts, beard trimming, children's haircuts, professional coloring, highlights and hair extensions – all in an elegant and pleasant environment.",
+    "buttonPreview": "Our Transformations"
+  },
+  "offer": {
+    "title": "Your path to the perfect look",
+    "subtitle": "Whatever you're looking for, you'll find it with us – stylishly and with confidence. Every detail is thoughtfully designed to make you feel exceptional – from the first greeting to the final styling.",
+    "info": [
+      {
+        "title": "Need a change?",
+        "subtitle": "Book an appointment with us and enjoy quality services in a pleasant environment. Our specialists will take care of your perfect look."
+      }
+    ],
+    "viewMoreButton": "Show More",
+    "viewLessButton": "Show Less",
+    "items": [
+      {
+        "title": "Women's Haircuts",
+        "description": "Elegant women's haircuts tailored to your needs.",
+        "icon": "crown",
+        "price": "from €35",
+        "image": [
+          "/offer_section/damske_strihy.png",
+          "/portfolio/auto_53141b30-2fd0-496f-a5ba-ac4d6a380b53.png"
+        ]
+      },
+      {
+        "title": "Men's & Children's Haircuts",
+        "description": "Creative men's haircuts adapted to hair type and face shape. Modern styles inspired by current trends.",
+        "icon": "scissors",
+        "price": "from €10",
+        "image": ["/offer_section/panske_strihy.png"]
+      },
+      {
+        "title": "Women's Cut + Hair Coloring",
+        "description": "Elegant women's cut + professional coloring with quality cosmetics. All shades and coloring techniques.",
+        "icon": "palette",
+        "price": "from €70",
+        "image": ["/offer_section/farbenie_vlasov.jpg"]
+      },
+      {
+        "title": "Manicure & Gel Nails",
+        "description": "Precise manicure and gel nails for the perfect look.",
+        "icon": "nails",
+        "price": "from €15",
+        "image": ["/offer_section/nechty.png"]
+      },
+      {
+        "title": "Hair Extensions",
+        "description": "Luxurious hair extensions for a fuller look.",
+        "icon": "hair-extensions",
+        "price": "from €100",
+        "image": ["/offer_section/predlzenie_vlasov.jpg"]
+      },
+      {
+        "title": "Women's Cut + Coloring + Hair Treatment",
+        "description": "Elegant women's cut + professional coloring + hair treatment. Everything for your perfect look.",
+        "icon": "highlights",
+        "price": "from €60",
+        "image": ["/offer_section/starostlivost_vlasov.jpeg"]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Our results speak for themselves",
+    "subtitle": "Every detail, every cut, every color – everything is created with an emphasis on precision, style and uniqueness. Discover inspiration and treat yourself to the look you deserve.",
+    "images": [
+      {
+        "src": "/portfolio/auto_53141b30-2fd0-496f-a5ba-ac4d6a380b53.png",
+        "alt": "Transformation 1"
+      },
+      {
+        "src": "/portfolio/auto_53141b30-2fd0-496f-a5ba-ac4d6a380b53.png",
+        "alt": "Transformation 2"
+      },
+      {
+        "src": "/portfolio/auto_53141b30-2fd0-496f-a5ba-ac4d6a380b53.png",
+        "alt": "Transformation 3"
+      },
+      {
+        "src": "/portfolio/auto_53141b30-2fd0-496f-a5ba-ac4d6a380b53.png",
+        "alt": "Transformation 4"
+      },
+      {
+        "src": "/portfolio/auto_53141b30-2fd0-496f-a5ba-ac4d6a380b53.png",
+        "alt": "Transformation 5"
+      },
+      {
+        "src": "/portfolio/auto_53141b30-2fd0-496f-a5ba-ac4d6a380b53.png",
+        "alt": "Transformation 6"
+      }
+    ]
+  },
+  "about_us": {
+    "title": "Who will take care of you?",
+    "text": "Behind every smile of our customers stands one skilled woman. Our hairdresser is young, talented and passionately dedicated to her work. She approaches each client individually, with attention to detail and your style. Her goal is for you to not only feel great with us, but also look great.",
+    "image": "/nasa_kadernicka.jpg"
+  },
+  "contact": {
+    "title": "Visit Us",
+    "subtitle": "You can find our salon in the heart of Petržalka. Modern environment, easy accessibility and first-class services – come and enjoy a moment for yourself.",
+    "addressButton": "View directions to us"
+  },
+  "opening_hours": {
+    "title": "Opening Hours",
+    "subtitle": "Visit us anytime during these hours. We recommend booking in advance.",
+    "weekly": "Weekly Schedule",
+    "tip": "For the best experience, we recommend booking in advance. You can contact us by phone or use our online booking system.",
+    "days": [
+      {
+        "day": "Monday",
+        "hours": "2:00 PM - 9:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "2:00 PM - 9:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "2:00 PM - 9:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "2:00 PM - 9:00 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "2:00 PM - 9:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ]
+  },
+  "footer": {
+    "subtitle": "A place where hair care becomes an experience. We combine quality, style and personal approach into every visit – from classic cuts to modern transformations.",
+    "services": {
+      "title": "Services",
+      "items": [
+        {
+          "title": "Women's Haircuts"
+        },
+        {
+          "title": "Men's Haircuts"
+        },
+        {
+          "title": "Hair Coloring"
+        },
+        {
+          "title": "Manicure"
+        }
+      ]
+    },
+    "company": {
+      "title": "Company",
+      "items": [
+        {
+          "title": "About Us"
+        },
+        {
+          "title": "Where to Find Us"
+        },
+        {
+          "title": "Opening Hours"
+        }
+      ]
+    }
+  }
+}

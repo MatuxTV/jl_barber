@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "home": "Domov",
+    "about": "O nás",
+    "services": "Služby",
+    "contact": "Kontaktujte nás",
+    "book": "Objednajte sa"
+  },
+  "hero": {
+    "title": "Pánske,Dámske a Detské kaderníctvo",
+    "subtitle": "Starostlivosť o vzhľad pre každého – priamo v Petržalke. Ponúkame precízne pánske a dámske strihy, úpravu brady, detské strihanie, profesionálne farbenie, melír či predlžovanie vlasov – všetko v elegantnom a príjemnom prostredí.",
+    "buttonPreview": "Naše premeny"
+  },
+  "offer": {
+    "title": "Vaša cesta k dokonalému vzhľadu",
+    "subtitle": "Nech hľadáte čokoľvek, u nás to nájdete – štýlovo a s istotou.Každý detail je premyslený tak, aby ste sa cítili výnimočne – od prvého pozdravu až po finálny styling.",
+    "info": [
+      {
+        "title": "Potrebujete zmenu ?",
+        "subtitle": "Objednajte sa k nám a užite si kvalitné služby v príjemnom prostredí. Naši odborníci sa postarajú o váš dokonalý vzhľad."
+      }
+    ],
+    "viewMoreButton": "Zobraziť viac",
+    "viewLessButton": "Zobraziť menej",
+    "items": [
+      {
+        "title": "Dámske strihy",
+        "description": "Elegantné dámske strihy prispôsobené vašim potrebám.",
+        "icon": "crown",
+        "price": "od 35",
+        "image": [
+          "/offer_section/damske_strihy.png",
+          "/portfolio/auto_53141b30-2fd0-496f-a5ba-ac4d6a380b53.png"
+        ]
+      },
+      {
+        "title": "Pánske a detské strihy",
+        "description": "Kreatívne pánske strihy prispôsobené typu vlasov a tvaru tváre. Moderné štýly inšpirované momentálnymi trendmi",
+        "icon": "scissors",
+        "price": "od 10",
+        "image": ["/offer_section/panske_strihy.png"]
+      },
+      {
+        "title": "Dámsky strih + farbenie vlasov",
+        "description": "Elegantný dámsky strih + profesionálne farbenie kvalitnou kozmetikou. Všetky odtiene a techniky farbenia.",
+        "icon": "palette",
+        "price": "od 70",
+        "image": ["/offer_section/farbenie_vlasov.jpg"]
+      },
+      {
+        "title": "Manikúra a gélové nechty",
+        "description": "Precízna manikúra a gélové nechty pre dokonalý vzhľad.",
+        "icon": "nails",
+        "price": "od 15",
+        "image": ["/offer_section/nechty.png"]
+      },
+      {
+        "title": "Predlžovanie vlasov",
+        "description": "Luxusné predlžovanie vlasov pre plnší vzhľad.",
+        "icon": "hair-extensions",
+        "price": "od 100",
+        "image": ["/offer_section/predlzenie_vlasov.jpg","/portfolio/IMG_6561.jpeg"]
+      },
+
+      {
+        "title": "Dámsky strih + farbenie + ošetrenie vlasov",
+        "description": "Elegantný dámsky strih + profesionálne farbenie + ošetrenie vlasov. Všetko pre váš dokonalý vzhľad.",
+        "icon": "highlights",
+        "price": "od 60",
+        "image": ["/offer_section/starostlivost_vlasov.jpeg"]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Naše výsledky hovoria za všetko",
+    "subtitle": "Každý detail, každé strihanie, každá farba – to všetko vzniká s dôrazom na precíznosť, štýl a výnimočnosť. Objavte inšpiráciu a doprajte si vzhľad, ktorý si zaslúžite.",
+    "images": [
+      {
+        "src": "/portfolio/auto_53141b30-2fd0-496f-a5ba-ac4d6a380b53.png",
+        "alt": "Premena 1"
+      },
+      {
+        "src": "/portfolio/Fwd_/IMG_5369.jpg",
+        "alt": "Premena 2"
+      },
+      {
+        "src": "/portfolio/Fwd_/IMG_7230.jpg",
+        "alt": "Premena 3"
+      },
+      {
+        "src": "/portfolio/IMG_5684.jpg",
+        "alt": "Premena 4"
+      },
+      {
+        "src": "/portfolio/IMG_6561.jpeg",
+        "alt": "Premena 5"
+      },
+      {
+        "src": "/portfolio/E2DEEB53-79DD-413A-B036-96F932A28BF8.jpeg",
+        "alt": "Premena 6"
+      }
+    ]
+  },
+  "about_us": {
+    "title": "Kto sa o vás postará?",
+    "text": "Za každým úsmevom našich zákazníkov stojí jedna šikovná žena. Naša kaderníčka je mladá, talentovaná a vášnivo oddaná svojej práci. Ku každému klientovi pristupuje individuálne, s dôrazom na detail a váš štýl. Jej cieľom je, aby ste sa u nás nielen skvele cítili, ale aj vyzerali.",
+    "image": "/nasa_kadernicka.jpg"
+  },
+  "contact": {
+    "title": "Navštívte nás",
+    "subtitle": "Náš salón nájdete v srdci Petržalky. Moderné prostredie, ľahká dostupnosť a prvotriedne služby – príďte si vychutnať chvíľku pre seba.",
+    "addressButton": "Pozrite si cestu k nám"
+  },
+  "opening_hours": {
+    "title": "Otváracie hodiny",
+    "subtitle": "Navštívte nás kedykoľvek počas týchto hodín. Odporúčame rezerváciu vopred.",
+    "weekly": "Týždenný rozvrh",
+    "tip": "Pre najlepší zážitok odporúčame rezerváciu vopred. Môžete nás kontaktovať telefonicky alebo použiť online rezervačný systém.",
+    "days": [
+      {
+        "day": "Pondelok",
+        "hours": "14:00 - 21:00"
+      },
+      {
+        "day": "Utorok",
+        "hours": "14:00 - 21:00"
+      },
+      {
+        "day": "Streda",
+        "hours": "14:00 - 21:00"
+      },
+      {
+        "day": "Štvrtok",
+        "hours": "14:00 - 21:00"
+      },
+      {
+        "day": "Piatok",
+        "hours": "14:00 - 21:00"
+      },
+      {
+        "day": "Sobota",
+        "hours": "Zatvorené"
+      },
+      {
+        "day": "Nedeľa",
+        "hours": "Zatvorené"
+      }
+    ]
+  },
+  "footer": {
+    "subtitle": "Miesto, kde sa starostlivosť o vlasy mení na zážitok. Spájame kvalitu, štýl a osobný prístup do každej návštevy – od klasických strihov až po moderné premeny.",
+    "services": {
+      "title": "Služby",
+      "items": [
+        {
+          "title": "Dámske strihy"
+        },
+        {
+          "title": "Pánske strihy"
+        },
+        {
+          "title": "Farbenie vlasov"
+        },
+        {
+          "title": "Manikúra"
+        }
+      ]
+    },
+    "company": {
+      "title": "Spoločnosť",
+      "items": [
+        {
+          "title": "O nás"
+        },
+        {
+          "title": "Kde nás nájdete"
+        },
+        {
+          "title": "Otváracie hodiny"
+        }
+      ]
+    }
+  }
+}
