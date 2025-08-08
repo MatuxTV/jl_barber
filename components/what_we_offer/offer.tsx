@@ -8,8 +8,8 @@ import {
   Scissors,
   Palette,
   Sparkles,
-  Apple,
-  Highlighter,
+  Infinity,
+  Sparkle,
   LucideIcon,
   ChevronLeft,
   ChevronRight,
@@ -56,9 +56,9 @@ const iconMap: Record<string, LucideIcon> = {
   crown: Crown,
   scissors: Scissors,
   palette: Palette,
-  nails: Sparkles,
-  "hair-extensions": Apple,
-  highlights: Highlighter,
+  sparkles: Sparkles,
+  infinity: Infinity,
+  sparkle: Sparkle,
 };
 
 const getIcon = (iconName: string) => {

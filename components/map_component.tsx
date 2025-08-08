@@ -173,7 +173,7 @@ export default function GoogleMap({ className }: GoogleMapProps) {
     );
   }
 
-  const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY; // Note: NEXT_PUBLIC_ prefix
+  const apiKey = process.env.NEXT_PUBLIC_GOOGLE_PLACES_API_KEY; // Note: NEXT_PUBLIC_ prefix
 
   if (!apiKey) {
     return (

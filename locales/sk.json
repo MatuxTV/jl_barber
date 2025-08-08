@@ -50,22 +50,24 @@
       {
         "title": "Manikúra a gélové nechty",
         "description": "Precízna manikúra a gélové nechty pre dokonalý vzhľad.",
-        "icon": "nails",
+        "icon": "sparkles",
         "price": "od 15",
         "image": ["/offer_section/nechty.png"]
       },
       {
         "title": "Predlžovanie vlasov",
         "description": "Luxusné predlžovanie vlasov pre plnší vzhľad.",
-        "icon": "hair-extensions",
+        "icon": "infinity",
         "price": "od 100",
-        "image": ["/offer_section/predlzenie_vlasov.jpg","/portfolio/IMG_6561.jpeg"]
+        "image": [
+          "/offer_section/predlzenie_vlasov.jpg",
+          "/portfolio/IMG_6561.jpeg"
+        ]
       },
-
       {
         "title": "Dámsky strih + farbenie + ošetrenie vlasov",
         "description": "Elegantný dámsky strih + profesionálne farbenie + ošetrenie vlasov. Všetko pre váš dokonalý vzhľad.",
-        "icon": "highlights",
+        "icon": "sparkle",
         "price": "od 60",
         "image": ["/offer_section/starostlivost_vlasov.jpeg"]
       }

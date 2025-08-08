@@ -1,5 +1,4 @@
 'use client'
-import { getGoogleReviews } from '@/lib/googleReviews';
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { Button } from '../ui/button';
@@ -20,13 +19,12 @@ export default function ContactUs({ contactInfo }: { contactInfo: ContactInfo[] 
         averageRating: 5.0
     });
 
-    // useEffect(() => {
-    //     async function fetchStats() {
-    //         const stats = await getGoogleReviews();
-    //         setReviewStats(stats);
-    //     }
-    //     fetchStats();
-    // }, []);
+    useEffect(() => {
+  fetch("/api/places")
+    .then(res => res.json())
+    .then(data => setReviewStats(data))
+    .catch(err => console.error(err));
+}, []);
 
     const addressData = contactInfo[0];
 
